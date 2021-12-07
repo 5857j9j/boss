@@ -1,1 +1,1 @@
-# boss
+Print("hello world", end"odin") 
